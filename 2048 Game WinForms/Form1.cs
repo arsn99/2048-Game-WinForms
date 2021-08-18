@@ -278,5 +278,10 @@ namespace _2048_Game_WinForms
             else return Color.Green;
 
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
+    
 }

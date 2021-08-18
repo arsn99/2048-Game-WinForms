@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace _2048_Game_WinForms
 {
     partial class Form1
@@ -55,6 +57,8 @@ namespace _2048_Game_WinForms
             this.PerformLayout();
 
         }
+
+        
 
         #endregion
         private System.Windows.Forms.Label scoreLabel;
